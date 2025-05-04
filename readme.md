@@ -17,7 +17,6 @@
 
 ![ERDIAGRAM](https://github.com/unrealemotion/little-lemon-database/blob/main/DM.png)
 
-A normalized ER diagram (that adheres to 1NF, 2NF and 3NF) with relevant relationships to meet the data requirements of Little Lemon developed using MySQL Wokrbench.
 
 
 
